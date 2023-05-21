@@ -143,15 +143,20 @@ body {
 	padding: .5em;
 }
 
+.modal-body {
+	padding: 0.85rem;
+	margin: 0.3rem;
+}
+
 .mg-prev,
 .mg-next {
-	width: 30px;
+	width: 17px;
 	height: 30px;
 	border-radius: 00%;
 	justify-content: center;
 	align-items: center;
 	display: flex;
-	font-size: 24px;
+	font-size: 22px;
 }
 
 .quote {
