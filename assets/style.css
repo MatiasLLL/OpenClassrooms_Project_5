@@ -18,10 +18,17 @@ body {
 	padding-inline: 100px;
 	padding-block: 30px;
 	align-items: center;
+	width: 100%;
+	height: auto;
 }
 
 .top-header .name {
 	font-size: 26px;
+}
+
+.header {
+	width: 100%;
+	height: auto;
 }
 
 .nav ul {
